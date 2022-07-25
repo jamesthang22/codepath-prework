@@ -4,7 +4,7 @@
 
 Submitted by: **James Thang**
 
-Time spent: **20** minutes spent in total
+Time spent: **.5** hours spent in total
 
 ## User Stories
 
